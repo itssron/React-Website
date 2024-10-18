@@ -22,7 +22,7 @@ const Navbar = () => {
         transition={{ duration: 1 }}
         className="m-4 flex items-center justify-center gap-4 text-xl lg:m-8 lg:text-2xl"
       >
-        <a href="https://www.linkedin.com/in/rony-chowdhury-8587501ba/" target="_blank" rel="noopener noreferrer" className="icon-hover">
+        <a href="https://www.linkedin.com/in/noble-chowdhury/" target="_blank" rel="noopener noreferrer" className="icon-hover">
           <FaLinkedin />
         </a>
         <a href="https://github.com/itssron" target="_blank" rel="noopener noreferrer" className="icon-hover">
