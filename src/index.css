@@ -7,3 +7,17 @@
 :root {
   font-family: "Inter", sans-serif;
 }
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.icon-hover {
+  transition: color 0.3s ease-in-out, text-shadow 1s ease-in-out; /* Make the glow effect disappear gradually */
+}
+
+.icon-hover:hover {
+  color: #FFFFFF; /* Neon white color */
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1); /* Stronger neon white glow */
+}
+
